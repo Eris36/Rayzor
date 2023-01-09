@@ -51,6 +51,7 @@
      <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineFreeLook.cs" />
      <Compile Include="Assets\Scripts\Tiles\Pipeline Tile\Scripts\PipelineTile.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+     <Compile Include="Assets\Scripts\DeadInAbyss.cs" />
      <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineCollider.cs" />
      <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachinePathBase.cs" />
      <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineDollyCart.cs" />
@@ -107,7 +108,6 @@
      <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CameraState.cs" />
      <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachineCore.cs" />
      <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachineBlend.cs" />
-     <Compile Include="Assets\Scripts\DeadInAbyss.cs" />
      <None Include="Assets\Cinemachine\ReleaseNotes.txt" />
      <None Include="Assets\Sprites\roguelike-cave-pack\License.txt" />
      <None Include="Assets\Resources\BillingMode.json" />
